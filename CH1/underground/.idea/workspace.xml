@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75bdf2ed-69df-42ca-9f7b-90c92ecb5d44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1iWy8Jme6FViSEbhSwWzEqo8MYm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75bdf2ed-69df-42ca-9f7b-90c92ecb5d44" name="Default Changelist" comment="" />
+      <created>1602037481306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602037481306</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="274" width="424" height="479" key="FileChooserDialogImpl" timestamp="1602037539613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="274" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602037539613" />
+    <state x="554" y="224" width="802" height="585" key="new project wizard" timestamp="1602037637668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="554" y="224" width="802" height="585" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602037637668" />
+  </component>
+</project>
